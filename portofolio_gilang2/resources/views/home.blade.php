@@ -563,6 +563,8 @@
 
                         <span>Tableau</span>
 
+                        <span>Laragon</span>
+
                     </div>
 
                 </div>

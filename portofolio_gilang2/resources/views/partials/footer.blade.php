@@ -18,9 +18,9 @@
 
                 <p>
 
-                    Fresh Graduate Information Systems with an interest in
-                    Web Development, Database Administration,
-                    and Data Analytics.
+                    Lulusan Baru Sistem Informasi dengan Minat
+                    di Pengembangan Website, database administrator, 
+                    serta jaringan komputer.
 
                 </p>
 
@@ -42,7 +42,7 @@
 
                     <li><a href="#about">About</a></li>
 
-                    <li><a href="#education">Education</a></li>
+                    <li><a href="#experience">Experience</a></li>
 
                     <li><a href="#skills">Skills</a></li>
 
@@ -70,15 +70,7 @@
 
                     <i class="bi bi-envelope-fill"></i>
 
-                    email@gmail.com
-
-                </p>
-
-                <p>
-
-                    <i class="bi bi-telephone-fill"></i>
-
-                    +62 812 xxxx xxxx
+                    gilangseftian90@gmail.com
 
                 </p>
 
@@ -86,21 +78,19 @@
 
                     <i class="bi bi-geo-alt-fill"></i>
 
-                    Palembang, Indonesia
+                    Ogan ILir, Indonesia
 
                 </p>
 
-                <div class="footer-social">
+                {{-- <div class="footer-social">
 
                     <a href="#"><i class="bi bi-github"></i></a>
 
                     <a href="#"><i class="bi bi-linkedin"></i></a>
 
-                    <a href="#"><i class="bi bi-whatsapp"></i></a>
-
                     <a href="#"><i class="bi bi-envelope-fill"></i></a>
 
-                </div>
+                </div> --}}
 
             </div>
 
