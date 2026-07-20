@@ -302,7 +302,7 @@
 
                         <p>
 
-                            Palembang, Indonesia
+                            Ogan Ilir, Indonesia
 
                         </p>
 
