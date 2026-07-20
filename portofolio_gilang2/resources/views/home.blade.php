@@ -42,7 +42,7 @@
 
                     </a>
 
-                    <a href="{{ asset('cv/CV_M_Gilang_Seftian.pdf') }}"
+                    <a href="{{ asset('cv/CV_ATS_M_GILANG_SEFTIAN.pdf') }}"
                         target="_blank"
                         class="btn-outline">
 
@@ -319,7 +319,7 @@
 
                     </a>
 
-                    <a href="{{ asset('cv/CV_M_Gilang_Seftian.pdf') }}"
+                    <a href="{{ asset('cv/CV_ATS_M_GILANG_SEFTIAN.pdf') }}"
                         class="btn-outline ms-2"
                         target="_blank">
 
@@ -790,7 +790,7 @@
                                 target="_blank"
                                 class="badge bg-primary text-decoration-none">
 
-                                    Jurnal Dharmawangsa
+                                    Lihat Paper
 
                                 </a>
 
@@ -841,7 +841,7 @@
                                 target="_blank"
                                 class="badge bg-primary text-decoration-none">
 
-                                    JSIMTEK
+                                    Lihat Paper
 
                                 </a>
 
